@@ -1,7 +1,3 @@
-# SchoolboyMod (SchoolBoy Runaway) — Speedrun Mod
-
-<div align="center">
-
 # 🏁 SchoolBoy Runaway — Speedrun Mod
 
 ### v2.0.0
